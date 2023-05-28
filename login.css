@@ -1,0 +1,10 @@
+body{
+   
+.bc1darker{
+    filter: 50%;
+     background-image: url(bc1.jpg);
+     height: 50px;
+     
+}
+
+}
